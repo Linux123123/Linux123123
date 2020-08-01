@@ -1,3 +1,3 @@
 # Hello everybody
 
-I am a small creator from world.
+I am a small creator from the world.
