@@ -11,3 +11,4 @@ dd if=/dev/null of=/dev/sd* status=progress bs=512B
 ```
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Linux123123&show_icons=true&theme=radical)](https://github.com/Linux123123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linux123123&layout=compact)](https://github.com/Linux123123)
