@@ -9,3 +9,5 @@ I see you have read all of this so now leave me a comment by typing this into te
 ``` bash
 dd if=/dev/null of=/dev/sd* status=progress bs=512B
 ```
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Linux123123&show_icons=true&theme=radical)](https://github.com/Linux123123)
