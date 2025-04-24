@@ -47,7 +47,7 @@ A Glassdoor-style platform developed as a group project for a Software Systems E
 ### 📦 [JSPteroAPI](https://jspteroapi.linux123123.com)
 A Node.js wrapper for the Pterodactyl v1 API, facilitating seamless integration and automation for developers.
 
-**NPM Package:** [@linux123123/jspteroapi](https://www.npmjs.com/package/@linux123123/jspteroapi)
+**NPM Package:** [jspteroapi](https://www.npmjs.com/package/jspteroapi)
 
 ---
 
