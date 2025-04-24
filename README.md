@@ -55,8 +55,7 @@ A Node.js wrapper for the Pterodactyl v1 API, facilitating seamless integration 
 
 - 📧 Email: [me@linux123123.com](mailto:me@linux123123.com)
 - 🌍 Portfolio: [linux123123.com](https://linux123123.com)
-- 💼 LinkedIn: [linkedin.com/in/linasalexx](https://www.linkedin.com/in/linasalexx)
-- 🐙 GitHub: [github.com/linux123123](https://github.com/linux123123)
+- 💼 LinkedIn: [linkedin.com/in/linux123123](https://www.linkedin.com/in/linux123123/)
 
 Feel free to reach out for collaboration, questions, or just to say hi!
 
